@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "602615672983",
+    "firebase_url": "https://fir-workshop-27682.firebaseio.com",
+    "project_id": "fir-workshop-27682",
+    "storage_bucket": "fir-workshop-27682.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602615672983:android:8d25080d4a6a8267",
+        "android_client_info": {
+          "package_name": "com.example.mohit.firebaseworkshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602615672983-85sej5i8l0rbenl2124b760on4dcibdq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mohit.firebaseworkshop",
+            "certificate_hash": "59259106575a8dac52be95e62e8816cc93ab259c"
+          }
+        },
+        {
+          "client_id": "602615672983-srs3nrleuv1mqq56p64b0ct4jjc0ffm5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "602615672983-srs3nrleuv1mqq56p64b0ct4jjc0ffm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0wSQjT4Ry8llPBEpsPwY8eXMJR-_am5E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602615672983-srs3nrleuv1mqq56p64b0ct4jjc0ffm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
